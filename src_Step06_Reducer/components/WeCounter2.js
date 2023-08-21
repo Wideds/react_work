@@ -1,6 +1,6 @@
 // src/components/YourCounter.js
 
-import { useReducer, useState } from "react"
+import { useReducer } from "react"
 
 //상수처럼 사용할 object 정의하기
 const ACTION={

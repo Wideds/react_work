@@ -5,7 +5,9 @@ import { useState } from "react"
 //함수형 component
 function OurCounter(){
 
-    const [state, setState] = useState({count:0})
+    const [state, setState] = useState({
+        count:0
+    })
 
     return (
         <div>

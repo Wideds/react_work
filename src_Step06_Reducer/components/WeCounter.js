@@ -1,6 +1,6 @@
 // src/components/YourCounter.js
 
-import { useReducer, useState } from "react"
+import { useReducer } from "react"
 
 //리듀서 함수 만들기
 const reducer = (count, action)=>{
