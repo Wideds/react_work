@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "title": "안녕 얘들아",
+      "author": "김구라",
+      "id": 1
+    },
+    {
+      "title": "제목",
+      "author": "작성자",
+      "id": 2
+    },
+    {
+      "title": "이거",
+      "author": "레알",
+      "id": 3
+    },
+    {
+      "title": "신기",
+      "author": "하네",
+      "id": 4
+    },
+    {
+      "title": "다시",
+      "author": "한번",
+      "id": 5
+    },
+    {
+      "title": "바로는",
+      "author": "안나와?",
+      "id": 8
+    },
+    {
+      "title": "바꾸고",
+      "author": "다시",
+      "id": 9
+    },
+    {
+      "title": "람다",
+      "author": "함수",
+      "id": 10
+    },
+    {
+      "title": "바로",
+      "author": "바뀜",
+      "id": 11
+    },
+    {
+      "title": "ㅁㅁ",
+      "author": "전체",
+      "id": 12
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todos": [
+    {
+      "id": 1,
+      "title": "Read SitePoint article",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Clean inbox",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "title": "Make restaurant reservation",
+      "complete": false
+    }
+  ]
+}
